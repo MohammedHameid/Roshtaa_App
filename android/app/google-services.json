@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "363394146103",
+    "project_id": "graduation-project-d3c89",
+    "storage_bucket": "graduation-project-d3c89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363394146103:android:7e279eaf615102243304b2",
+        "android_client_info": {
+          "package_name": "com.example.yehia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-PQ2CvL3mlj5qT8p2dCSAUWNCruanEPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
