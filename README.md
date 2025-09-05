@@ -25,15 +25,6 @@ It integrates with the [Roشtaa Flask NLP API](https://github.com/MohammedHameid
 ---
 
 ## 📂 Project Structure
- Roshtaa_App/
- │── android/ # Android native files
- │── assets/ # Images, logos, banners
- │── lib/
- │ ├── Screens/ # Login, Home, Admin, Medicine
- │ ├── Widgets/ # Reusable UI widgets
- │ ├── constants/ # Global constants & helpers
- │── README.md # Project documentation
-
 
 ---
 
@@ -43,30 +34,3 @@ It integrates with the [Roشtaa Flask NLP API](https://github.com/MohammedHameid
 ```bash
 git clone https://github.com/MohammedHameid/Roshtaa_App.git
 cd Roshtaa_App
-
-2. Install dependencies
-flutter pub get
-
-3. Run the app
-flutter run
-
-
-Make sure you have a connected device or emulator running.
-
-📱 Screenshots
-
-👉 (Add app screenshots here once available)
-
-🔗 Related Repositories
-
-🧠 FLask_API (NLP Backend)
-
-👤 Author
-
-Mohamed Hamed
-📍 Data Scientist – Giza, Egypt
-🔗 LinkedIn
- | GitHub
-
-
-Do you want me to also add a **“How it Works”** section (showing the flow: user scans prescription → app → Flask API → 
