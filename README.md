@@ -36,8 +36,8 @@ It integrates with the [Roشtaa Flask NLP API](https://github.com/MohammedHameid
 │ └── main.dart # Entry point of the app
 ├── assets/ # Images, fonts, and other resources
 ├── pubspec.yaml # Dependencies & assets
-└── README.md # Project documentation```
----
+└── README.md # Project documentation ```
+
 
 ## 🔄 How It Works
 1. User logs in / signs up using **Firebase authentication**.  
