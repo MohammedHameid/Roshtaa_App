@@ -25,6 +25,27 @@ It integrates with the [Roشtaa Flask NLP API](https://github.com/MohammedHameid
 ---
 
 ## 📂 Project Structure
+Roshtaa_App/
+│
+├── android/ # Android-specific files
+├── ios/ # iOS-specific files
+├── lib/ # Main Flutter source code
+│ ├── screens/ # App screens (Login, Home, OCR, Articles, etc.)
+│ ├── widgets/ # Reusable UI components
+│ ├── services/ # API calls & Firebase integration
+│ └── main.dart # Entry point of the app
+├── assets/ # Images, fonts, and other resources
+├── pubspec.yaml # Dependencies & assets
+└── README.md # Project documentation
+---
+
+## 🔄 How It Works
+1. User logs in / signs up using **Firebase authentication**.  
+2. User scans or uploads a **prescription image**.  
+3. The app sends the image to the **Flask NLP API**.  
+4. Backend uses **Tesseract OCR** + NLP model to extract medicine names.  
+5. Extracted drug information is returned and displayed in the app.  
+6. Users can also browse **health articles** and search for medicines.  
 
 ---
 
