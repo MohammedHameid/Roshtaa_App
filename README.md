@@ -25,14 +25,14 @@ It integrates with the [Roشtaa Flask NLP API](https://github.com/MohammedHameid
 ---
 
 ## 📂 Project Structure
-Roshtaa_App/
-│── android/ # Android native files
-│── assets/ # Images, logos, banners
-│── lib/
-│ ├── Screens/ # Login, Home, Admin, Medicine
-│ ├── Widgets/ # Reusable UI widgets
-│ ├── constants/ # Global constants & helpers
-│── README.md # Project documentation
+ Roshtaa_App/
+ │── android/ # Android native files
+ │── assets/ # Images, logos, banners
+ │── lib/
+ │ ├── Screens/ # Login, Home, Admin, Medicine
+ │ ├── Widgets/ # Reusable UI widgets
+ │ ├── constants/ # Global constants & helpers
+ │── README.md # Project documentation
 
 
 ---
